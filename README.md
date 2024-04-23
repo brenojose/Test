@@ -1,8 +1,13 @@
-**BEGIN**
+</p>
+<ul>
+BEGIN
+<ul><p>
 statements
-**EXCEPTION**
-    WHEN exception type
-        statements to handle exception
-    WHEN another exception type
-        statements to handle exception
-**END**
+</p></ul>
+EXCEPTION
+<ul><p>WHEN exception type
+statements to handle exception
+WHEN another exception type
+statements to handle exception
+END
+</p>
